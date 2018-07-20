@@ -1,3 +1,4 @@
+// Task and 2 methods
 var Task = function (data) {
     this.name = data.name;
     this.priority = data.priority;
