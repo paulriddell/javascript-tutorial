@@ -9,10 +9,10 @@
 *Used to create new objects with their own object scope*
 
 >Putting 'new' infront of a function
-- Creates a brand new object
-- Links to an object prototype
-- Binds 'this' to the new object
-- Implicitly return this
+ - Creates a brand new object
+ - Links to an object prototype
+ - Binds 'this' to the new object
+ - Implicitly return this
 
 - Module Pattern
 
@@ -46,9 +46,9 @@ var Module = function(){
 - Singleton Pattern
 
 *Used to restrict an object to one instance of that object across the application*
- - Remembers the last time you used it
- - Hands the same instance back
- - Node.js uses CommonJS
+  - Remembers the last time you used it
+  - Hands the same instance back
+  - Node.js uses CommonJS
 
 
 **Structural Design Patterns**
