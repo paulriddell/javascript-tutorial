@@ -1,10 +1,10 @@
 # javascript-tutorial
 
-##**Creational Design Patterns**##
+## **Creational Design Patterns**
 
 *Used to Construct New Objects, Adapting Creation to the Situation*
 
-###Constructor Pattern###
+### Constructor Pattern
 
 *Used to create new objects with their own object scope*
 
@@ -14,7 +14,7 @@ Putting 'new' infront of a function
  - Binds 'this' to the new object
  - Implicitly return this
 
-###Module Pattern###
+### Module Pattern
 
 *Simple way to encapsulate methods, creates a 'Toolbox' of functions to use*
 
@@ -36,14 +36,14 @@ var Module = function(){
 }
 ```
 
-###Factory Pattern###
+### Factory Pattern
 
 *A pattern used to simply object creation*
  - Simplifies object creation
  - Creating different objects based on need
  - Repository Creation
 
-###Singleton Pattern###
+### Singleton Pattern
 
 *Used to restrict an object to one instance of that object across the application*
   - Remembers the last time you used it

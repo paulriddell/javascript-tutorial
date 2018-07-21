@@ -1,6 +1,6 @@
 # javascript-tutorial
 
-##**Behavoiral Design Patterns**##
+## **Behavoiral Design Patterns** 
 
 *Concerned with the assignment of responsibilities between objects and how they communicate*
 
@@ -9,7 +9,7 @@
 - Assign clear hierarchy
 - Can encapsulate requests
 
-###Observer Pattern###
+### Observer Pattern
 
 *Allows a collection of objects to watch an object and be notified of changes*
 
@@ -18,7 +18,7 @@
 - Group of object watch for changes
 - Can be hefty
 
-###Mediator Pattern###
+### Mediator Pattern
 
 *Controls communication between objects so neither object has to be coupled to the others*
 
@@ -27,7 +27,7 @@
 - Many to many relationship
 - Task pushes events to mediator
 
-###Command Pattern###
+### Command Pattern
 
 *Encapsulates the calling of a method as an object*
 

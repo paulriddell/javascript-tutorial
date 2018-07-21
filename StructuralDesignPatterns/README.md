@@ -1,6 +1,6 @@
 # javascript-tutorial
 
-##**Structural Design Patterns**##
+## **Structural Design Patterns**
 
 *Concermed with how objects are made up and simplify relationships between objects*
 
@@ -8,7 +8,7 @@
 - Extend functionality
 - Simplify functionality
 
-###Decorator Pattern###
+### Decorator Pattern
 
 *Used to add new functionality to an existing object without being obtrusive**
 
@@ -17,11 +17,11 @@
 - Protects existing objects
 - Allows extended functionality
 
-###Facade Pattern###
+### Facade Pattern
 
 *Used to provide a simplified interface to a complicated system*
 
-###Flyweight Pattern###
+### Flyweight Pattern
 
 *Conserves memory by sharing portions of an object between objects*
 
